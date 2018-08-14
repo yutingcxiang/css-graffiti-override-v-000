@@ -3,10 +3,10 @@
   display: none;
 }
 
-#tag-2, #tag-4 {
+#wall #tag-2, #tag-4 {
   display: none;
 }
 
-.slick-wicked, .slick {
+#wall .slick-wicked, .slick {
   display: none;
 }
