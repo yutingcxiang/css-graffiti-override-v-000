@@ -7,10 +7,6 @@
   display: none;
 }
 
-#tag-3 .slick-wicked {
-  display: none;
-}
-
-#tag-5 .slick {
+.slick-wicked, .slick {
   display: none;
 }
