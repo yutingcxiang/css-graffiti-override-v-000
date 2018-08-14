@@ -7,6 +7,10 @@
   display: none;
 }
 
-#wall .slick-wicked, .slick {
+#wall #tag-3.slick.wicked {
+  display: none;
+}
+
+#wall #tag-5.slick {
   display: none;
 }
